@@ -54,3 +54,5 @@ Sales and profit show a steady growth trend towards the end of the year, peaking
 Notable dip in profit during April.
 
 ## Output
+
+<img width="906" height="503" alt="Image" src="https://github.com/user-attachments/assets/82a90922-c0d0-41dc-a8d1-df4f0ed95d28" />
